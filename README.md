@@ -10,3 +10,6 @@ Sample website with plenty of files for demos
 ## How to contribute
 
 awdwaeewfewfqwesfecerfreferf
+
+
+Copyright 2023
