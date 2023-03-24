@@ -14,4 +14,4 @@ Please fork this repository
 awdwaeewfewfqwesfecerfreferf
 
 
-Copyright 2023
+Copyright 2023. All rights reserved
